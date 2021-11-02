@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Google Meet Auto Leave",
-    "description": "GoogleMeet Auto Leave: on time, number of members, minutes _abx",
+    "description": "GoogleMeet Auto Leave: minutes",
     "version": "1.1.0",
-    "author": "abx",
+    "author": "superdev",
     "icons": {
         "512": "images/editexiticon1.png"
     },
